@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/HolidayModal.css'
 
 const HolidayModal = ({ holiday, onClose }) => {
   return (
