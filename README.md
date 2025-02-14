@@ -8,7 +8,6 @@ A full-stack application that allows users to search, filter, and view holiday d
 - **Holiday Details:** Click on a holiday to view more details in a modal.
 - **Custom Search:** Filter holidays by name.
 - **Caching:** Holiday data is cached for 24 hours to reduce external API calls.
-- **Responsive UI:** Clean and responsive design using Tailwind CSS.
 
 ## Technologies
 
